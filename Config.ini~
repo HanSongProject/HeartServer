@@ -1,0 +1,15 @@
+/*****************************
+*
+*     Sound G:配置文件
+*
+*****************************/
+[FTP]
+serverIp=192.68.1.1  
+serName=qqiot@qqiot.platinaudio.com
+passWord=0U=swWJL%?^?
+fileName=updateConfig.ini
+[VER]
+version=1.0.0
+[CARD]
+hw:0,1=73dc00a2-8d15-4dcb-bcd2-24bdc78a63d
+hw:0,0=d081dfae-b4b5-47e8-bf81-803b14bf355
